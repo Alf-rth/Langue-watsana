@@ -1,0 +1,16 @@
+h1{ font-family: cursive;
+  font-size: 55px;
+  color: darkblue;
+  border: solid 2px;
+  border-radius: 60px;
+  text-align: center;
+  font-weight: 5px;
+}
+body{background-color: lavender;}
+.flèche{font-size: 30px;
+  color: red;
+}
+.keple{color: green;}
+.term{color: blue;}
+.imp{color: sandybrown;}
+.pron{color: navy;}

@@ -1,0 +1,41 @@
+body { background-color: teal;}
+
+h1 { color: tan;
+  border: solid 4px;
+  border-radius: 40px;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  border-color: tan;}
+
+p {color: white;
+  font-size: 20px;
+}
+
+.a{ background-color: teal;
+  Border: solid 3px;
+  margin: 4px 0 4px 4px;
+  width: 330px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 40px;
+  background-color: lemonchiffon;
+color: darkgoldenrod;}
+#p{ font-size: 20px;
+  color: khaki;
+  border: solid 3px;
+  border-radius: 10px;
+  text-align: center;
+margin-top: 125px;}
+em{ color: saddlebrown;}
+h4{font-size: 20px;}
+#al{color: sandybrown;}
+.space { margin-left: 40px;}
+h4 { border: solid 2px;
+  padding-left: 30px;
+  padding-right: 0;
+  border-radius: 20px;
+  background-color: saddlebrown;
+  color: gold;
+}
+#alpha{color: navajowhite;}
+.f{color: cadetblue;}

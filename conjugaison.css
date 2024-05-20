@@ -1,0 +1,29 @@
+h1{ font-family: cursive;
+  font-size: 55px;
+  color: darkblue;
+  border: solid 2px;
+  border-radius: 60px;
+  text-align: center;
+  font-weight: 5px;
+}
+body{background-color: lavender;}
+#aux{ color: red;}
+b{color: teal;}
+h2{color: goldenrod;}
+.aux{ color: green;
+  font-size: 20px;
+  font-style: italic;
+  font-family: Georgia;
+}
+.pron{ color: darkgray;}
+.a{color: hotpink;}
+table{ border-collapse: collapse;
+  border: 2px solid;
+}
+td, th{ border: solid 2px;
+    padding: 10px;}
+.filaza{color: saddlebrown;}
+.term{color: teal;}
+div{ color: fuchsia;
+  margin-left: 15px;
+}
